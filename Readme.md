@@ -14,3 +14,5 @@ To run the project, follow these steps:
    ```bash
    npm install
    npm start
+
+[![Hits](https://hits.sh/github.com/shivamk-21/IIITConnectBackendServer.svg?label=Views)](https://hits.sh/github.com/shivamk-21/IIITConnectBackendServer/)
